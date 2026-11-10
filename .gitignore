@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+tracks.csv
+processed_tracks.csv
+output/
+hw2_results/
